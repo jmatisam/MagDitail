@@ -15,7 +15,7 @@ Our previous programmer, Mariano, has left the company to set up his own startup
 The following guides illustrate how to use some features concretely:
 * [Oficial Guide of Proyect](https://www.canva.com/design/DAGIgrvvJP4/hOPIi2iH5ONc5yRDCF9Cjw/view?utm_content=DAGIgrvvJP4&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 
-* [Guide for First Steps in the App](https://www.canva.com/design/DAGIgrvvJP4/hOPIi2iH5ONc5yRDCF9Cjw/view?utm_content=DAGIgrvvJP4&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+* [Coming soon -> Guide for First Steps in the App](https://www.canva.com/design/DAGIgrvvJP4/hOPIi2iH5ONc5yRDCF9Cjw/view?utm_content=DAGIgrvvJP4&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 
 ## If you have lost your !purchase¡ in this proyect, you will not find the way out anyway
 
