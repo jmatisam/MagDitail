@@ -1,13 +1,14 @@
 package jmat_f5bosco.mag_ditail;
 
 import java.math.BigDecimal;
+import java.math.RoundingMode;
 
 public class EccentricItem {
     private String name;
     private String description;
     private BigDecimal basePrice;
     private BigDecimal sellPrice;
-    protected  static final BigDecimal TAX_RATE = BigDecimal.valueOf(0.21);
+    protected static final BigDecimal TAX_RATE = BigDecimal.valueOf(0.21);
 
     public EccentricItem(String name, String description, BigDecimal basePrice) {
         this.name = name;
@@ -39,7 +40,7 @@ public class EccentricItem {
 
     public void setBasePrice(BigDecimal basePrice) {
         this.basePrice = basePrice;
-        this.sellPrice = basePrice; // Update sell price when base price changes
+        this.sellPrice = basePrice;
     }
 
     public BigDecimal getSellPrice() {
@@ -55,6 +56,8 @@ public class EccentricItem {
     }
 
     public BigDecimal calculateTotalPrice() {
-        return sellPrice.multiply(BigDecimal.ONE.add(TAX_RATE));
+        BigDecimal totalPrice = sellPrice.multiply(BigDecimal.ONE.add(TAX_RATE));
+        return totalPrice.setScale(2, RoundingMode.HALF_UP); 
     }
+    
 }
