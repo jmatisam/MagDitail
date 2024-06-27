@@ -1,0 +1,162 @@
+[
+    {
+        "name": "Normal Card 1",
+        "description": "A regular brown card",
+        "color": "brown",
+        "age": 0,
+        "basePrice": 2.0,
+        "imagePath": "src\\main\\resources\\static\\images\\Normal_card1.png"
+    },
+    {
+        "name": "Normal Card 2",
+        "description": "A regular brown card",
+        "color": "brown",
+        "age": 0,
+        "basePrice": 2.0,
+        "imagePath": "src\\main\\resources\\static\\images\\Normal_card2.png"
+    },
+    {
+        "name": "Normal Card 3",
+        "description": "A regular brown card",
+        "color": "brown",
+        "age": 0,
+        "basePrice": 2.0,
+        "imagePath": "src\\main\\resources\\static\\images\\Normal_card3.png"
+    },
+    {
+        "name": "Normal Card 4",
+        "description": "A regular brown card",
+        "color": "brown",
+        "age": 0,
+        "basePrice": 2.0,
+        "imagePath": "src\\main\\resources\\static\\images\\Normal_card4.png"
+    },
+    {
+        "name": "Black Card 1",
+        "description": "A powerful black card",
+        "color": "black",
+        "age": 10,
+        "basePrice": 6.8,
+        "imagePath": "src\\main\\resources\\static\\images\\Black_lotus1.png"
+    },
+    {
+        "name": "Black Card 2",
+        "description": "A powerful black card",
+        "color": "black",
+        "age": 10,
+        "basePrice": 6.8,
+        "imagePath": "src\\main\\resources\\static\\images\\Black_lotus2.png"
+    },
+    {
+        "name": "Black Card 3",
+        "description": "A powerful black card",
+        "color": "black",
+        "age": 10,
+        "basePrice": 6.8,
+        "imagePath": "src\\main\\resources\\static\\images\\Black_lotus3.png"
+    },
+    {
+        "name": "Black Card 4",
+        "description": "A powerful black card",
+        "color": "black",
+        "age": 10,
+        "basePrice": 6.8,
+        "imagePath": "src\\main\\resources\\static\\images\\Black_lotus4.png"
+    },
+    {
+        "name": "Blue Card 1",
+        "description": "A mystical blue card",
+        "color": "blue",
+        "age": 7,
+        "basePrice": 5.0,
+        "imagePath": "src\\main\\resources\\static\\images\\Blue_card1.png"
+    },
+    {
+        "name": "Blue Card 2",
+        "description": "A mystical blue card",
+        "color": "blue",
+        "age": 7,
+        "basePrice": 5.0,
+        "imagePath": "src\\main\\resources\\static\\images\\Blue_card2.png"
+    },
+    {
+        "name": "Blue Card 3",
+        "description": "A mystical blue card",
+        "color": "blue",
+        "age": 7,
+        "basePrice": 5.0,
+        "imagePath": "src\\main\\resources\\static\\images\\Blue_card3.png"
+    },
+    {
+        "name": "Blue Card 4",
+        "description": "A mystical blue card",
+        "color": "blue",
+        "age": 7,
+        "basePrice": 5.0,
+        "imagePath": "src\\main\\resources\\static\\images\\Blue_card4.png"
+    },
+    {
+        "name": "Green Card 1",
+        "description": "A magical green card",
+        "color": "green",
+        "age": 5,
+        "basePrice": 4.0,
+        "imagePath": "src\\main\\resources\\static\\images\\Green_card1.png"
+    },
+    {
+        "name": "Green Card 2",
+        "description": "A magical green card",
+        "color": "green",
+        "age": 5,
+        "basePrice": 4.0,
+        "imagePath": "src\\main\\resources\\static\\images\\Green_card2.png"
+    },
+    {
+        "name": "Green Card 3",
+        "description": "A magical green card",
+        "color": "green",
+        "age": 5,
+        "basePrice": 4.0,
+        "imagePath": "src\\main\\resources\\static\\images\\Green_card3.png"
+    },
+    {
+        "name": "Green Card 4",
+        "description": "A magical green card",
+        "color": "green",
+        "age": 5,
+        "basePrice": 4.0,
+        "imagePath": "src\\main\\resources\\static\\images\\Green_card4.png"
+    },
+    {
+        "name": "Red Card 1",
+        "description": "A fiery red card",
+        "color": "red",
+        "age": 3,
+        "basePrice": 3.0,
+        "imagePath": "src\\main\\resources\\static\\images\\Red_card1.png"
+    },
+    {
+        "name": "Red Card 2",
+        "description": "A fiery red card",
+        "color": "red",
+        "age": 3,
+        "basePrice": 3.0,
+        "imagePath": "src\\main\\resources\\static\\images\\Red_card2.png"
+    },
+    {
+        "name": "Red Card 3",
+        "description": "A fiery red card",
+        "color": "red",
+        "age": 3,
+        "basePrice": 3.0,
+        "imagePath": "src\\main\\resources\\static\\images\\Red_card3.png"
+    },
+    {
+        "name": "Red Card 4",
+        "description": "A fiery red card",
+        "color": "red",
+        "age": 3,
+        "basePrice": 3.0,
+        "imagePath": "src\\main\\resources\\static\\images\\Red_card4.png"
+    }
+]

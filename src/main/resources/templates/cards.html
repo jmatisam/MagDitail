@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Magic Cards</title>
+    <link rel="stylesheet" th:href="@{/css/styles.css}">
+</head>
+<body>
+    <h1>Magic Cards for Sale</h1>
+    <div class="card-container">
+        <ul>
+            <li th:each="card : ${cards}">
+                <h2 th:text="${card.name}">Card Name</h2>
+                <p th:text="${card.description}">Card Description</p>
+                <p>Color: <span th:text="${card.color}">Card Color</span></p>
+                <p>Age: <span th:text="${card.age}">Card Age</span></p>
+                <p>Price: <span th:text="${card.sellPrice}">Card Price</span> €</p>
+                <img th:src="@{${card.imagePath}}" alt="Card Image" width="200">
+            </li>
+        </ul>
+    </div>
+</body>
+</html>
