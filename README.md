@@ -17,7 +17,7 @@ The following guides illustrate how to use some features concretely:
 
 * [Coming soon -> Guide for First Steps in the App](https://www.canva.com/design/DAGIgrvvJP4/hOPIi2iH5ONc5yRDCF9Cjw/view?utm_content=DAGIgrvvJP4&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 
-* [Recuso inspiración](https://www.youtube.com/watch?v=5PdEmeopJVQ)
+* [Recuso by freeCodeCamp.org. Full Stack Development with Java Spring Boot, React, and MongoDB – Full Course ](https://www.youtube.com/watch?v=5PdEmeopJVQ)
 ## If you have lost your !purchase¡ in this proyect, you will not find the way out anyway
 
 ### Reference Documentation
